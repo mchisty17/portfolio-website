@@ -1,0 +1,58 @@
+.about{
+margin: 130px 130px;
+text-align: center;
+border-radius: 10px;
+background: #FFF8F3;
+
+
+}
+
+.about_title{
+color: #181818;
+text-align: center;
+font-size: 45px;
+font-weight: bold;
+
+
+}
+.descrp{
+font-size: 25px;
+margin-bottom: 5px;
+
+}
+.body{
+
+max-width: 1140px;
+margin: 0 auto 0 auto;
+
+}
+.info{
+
+display: flex;
+margin-top: 5px;
+margin-right: 100px;
+margin-left: 250px;
+justify-content: space-between;
+}
+
+.info-container{
+color: #757575;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+
+
+
+}
+.about-title{
+margin-bottom: 0px;
+
+}
+
+.about-para{
+
+margin-top: 0px;
+
+
+}
