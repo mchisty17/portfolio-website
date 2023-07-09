@@ -1,0 +1,83 @@
+.footer{
+
+display: flex;
+margin-top: 30px;
+flex-shrink: 0;
+background: #FFF8F3;
+justify-content: space-between;
+
+}
+
+.foot-title{
+
+color: var(--dark-01, #181818);
+text-align: left;
+font-family: Open Sans;
+font-size: 35px;
+font-weight: 700;
+margin-bottom: 5px;
+
+
+}
+.foot-des{
+color: var(--dark-02, #474747);
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+margin-top: 5px;
+
+
+}
+.footer-text{
+
+margin-left: 150px;
+
+
+}
+.ficons img{
+
+margin-left: 20px;
+justify-content: center;
+
+}
+
+.form{
+margin-top: 30px;
+margin-right: 100px;
+
+}
+
+
+
+
+.form input[type="text"],[type="email"]{
+display: block;
+margin-right: 150px;
+margin-top: 10px;
+width: 250px;
+height: 40px;
+padding-left: 20px;
+
+}
+
+.form fieldset{
+
+width: 250px;
+height: 100px;
+
+margin-top: 20px;
+border-radius: 5px;
+background: var(--white-color, #FFF);
+
+}
+.fbutton{
+width: 100px;
+height: 32px;
+flex-shrink: 0;
+border-radius: 5px;
+background: #FD6E0A;
+margin-top: 20px;
+flex-shrink: 0;
+
+}
